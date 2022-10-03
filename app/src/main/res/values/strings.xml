@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">securify</string>
+    <string name="contact">Contact</string>
+    <string name="Name">NAME :</string>
+    <string name="Number">CONTACT :</string>
+
+</resources>
